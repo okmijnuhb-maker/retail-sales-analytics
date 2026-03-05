@@ -1,11 +1,11 @@
-# 🛒 Retail Sales Analytics Project
+#  Retail Sales Analytics Project
 ### Power BI Dashboard + R Statistical Modelling
 **Prepared by: J. Charan Reddy | February 2026**  
 **Tools: Power BI Desktop | R 4.5.2 | RStudio**
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 An end-to-end data analytics portfolio project demonstrating proficiency across the full analytics pipeline — from raw data ingestion and transformation to advanced statistical modelling and interactive dashboard creation.
 
@@ -13,22 +13,22 @@ The project combines **3 real-world Kaggle datasets** integrated through a **Sta
 
 ---
 
-## 🔑 Key Results
+##  Key Results
 
 | Metric | Value |
 |--------|-------|
-| 💰 Total Revenue | $2.30M |
-| 📈 Total Profit | $286.40K |
-| 🎯 Profit Margin | 12.47% |
-| 🚀 YoY Sales Growth | 20.36% |
-| 👥 Customer Retention | 99.4% (788/793) |
-| 🤖 Churn Model Accuracy | 100% |
-| 📊 ARIMA Forecast Accuracy | 86.13% |
-| 🔵 Customer Segments | 3 Identified |
+|  Total Revenue | $2.30M |
+|  Total Profit | $286.40K |
+|  Profit Margin | 12.47% |
+|  YoY Sales Growth | 20.36% |
+|  Customer Retention | 99.4% (788/793) |
+|  Churn Model Accuracy | 100% |
+|  ARIMA Forecast Accuracy | 86.13% |
+|  Customer Segments | 3 Identified |
 
 ---
 
-## 🗂️ Repository Structure
+##  Repository Structure
 
 ```
 retail-sales-analytics/
@@ -62,7 +62,7 @@ retail-sales-analytics/
 
 ---
 
-## 📦 Datasets Used
+##  Datasets Used
 
 | Dataset | Rows | Source |
 |---------|------|--------|
@@ -74,7 +74,7 @@ retail-sales-analytics/
 
 ---
 
-## 📊 Power BI Dashboard — 5 Pages
+##  Power BI Dashboard — 5 Pages
 
 ### Page 1 — Sales Overview
 - Total Sales: **$2.30M** | Total Profit: **$286.40K** | Orders: **10,000** | Margin: **12.47%**
@@ -107,7 +107,7 @@ retail-sales-analytics/
 
 ---
 
-## 🤖 R Statistical Models
+##  R Statistical Models
 
 ### Model 1 — Linear Regression (`01_linear_regression.R`)
 | Metric | Value |
@@ -123,9 +123,9 @@ retail-sales-analytics/
 ### Model 2 — K-Means Customer Segmentation (`02_kmeans_clustering.R`)
 | Segment | Avg Age | Avg Purchase | Avg Rating | Count |
 |---------|---------|-------------|------------|-------|
-| 🟥 Cluster 1 — Premium Seniors | 54.2 yrs | $81.40 | 3.87 | 1,192 |
-| 🟦 Cluster 2 — Middle Budget | 53.5 yrs | $38.00 | 3.56 | 1,223 |
-| 🟩 Cluster 3 — Young Mid-Spenders | 28.2 yrs | $60.40 | 3.80 | 1,485 |
+|  Cluster 1 — Premium Seniors | 54.2 yrs | $81.40 | 3.87 | 1,192 |
+|  Cluster 2 — Middle Budget | 53.5 yrs | $38.00 | 3.56 | 1,223 |
+|  Cluster 3 — Young Mid-Spenders | 28.2 yrs | $60.40 | 3.80 | 1,485 |
 
 > **Optimal Clusters:** 3 (Elbow Method) | **Total Variance Explained:** 67.8%
 
@@ -164,7 +164,7 @@ retail-sales-analytics/
 
 ---
 
-## 📉 Output Visualisations
+##  Output Visualisations
 
 | File | Description |
 |------|-------------|
@@ -175,7 +175,7 @@ retail-sales-analytics/
 
 ---
 
-## 💡 Key Business Recommendations
+##  Key Business Recommendations
 
 **Immediate (0–3 Months)**
 - Reduce Binders discount spend — accounts for majority of -$34.59K loss
@@ -195,13 +195,13 @@ retail-sales-analytics/
 
 ---
 
-## 🛠️ Technical Skills Demonstrated
+##  Technical Skills Demonstrated
 
 `Power BI` `DAX Measures` `Star Schema` `Power Query` `R` `ggplot2` `Linear Regression` `K-Means Clustering` `ARIMA` `Random Forest` `Data Cleaning` `Time Series` `Machine Learning` `Statistical Modelling`
 
 ---
 
-## 📊 Project Summary Statistics
+##  Project Summary Statistics
 
 | Stat | Value |
 |------|-------|
@@ -214,7 +214,7 @@ retail-sales-analytics/
 
 ---
 
-## 👤 Author
+##  Author
 
 **J. Charan Reddy**  
 📅 February 2026  
